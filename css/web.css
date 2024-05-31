@@ -1,0 +1,28 @@
+.bg{background-color:#030331}
+nav{text-align:right; padding-bottom:29px;}
+a{color:rgba(255, 255, 255, 0.81); font-size:25px; margin:10px;}
+img{margin:25px;}
+h3{color:darkblue; text-align:center; font-size:30px;}
+span{color:rgb(252, 84, 12);}
+p{text-align:center; font-size:27; color:black;}
+nav a{text-decoration:none; padding:5px;}
+h2{color:orange;}
+nav a:hover{background-color:green;}
+.img{
+
+    text-align:center;
+}
+.new{color:rgb(227, 238, 144);}
+.bg{
+padding-left: 25px; padding-top: 5px;
+
+}
+footer{
+text-align-last: center; background-color: rgb(149, 149, 158); padding:25px;
+
+
+}
+.bg{
+    border-radius:20px;
+
+}
