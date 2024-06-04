@@ -1,5 +1,5 @@
 h1{
- background-color: black; color:white; padding:15px; 
+ background-color: black; color:white; padding:15px;  
 
 }
 p{
@@ -12,3 +12,5 @@ span{
 text-align:center; color:rgb(255, 0, 187); font-size: 25px; background-color:aliceblue; padding:10px;
 
 }
+nav{text-align:right; padding-bottom:29px;}
+a{color:rgba(255, 255, 255, 0.81); font-size:25px; margin:10px;}
