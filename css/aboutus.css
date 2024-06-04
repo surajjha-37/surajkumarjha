@@ -14,3 +14,5 @@ text-align:center; color:rgb(255, 0, 187); font-size: 25px; background-color:ali
 }
 nav{text-align:right; padding-bottom:29px;}
 a{color:rgba(255, 255, 255, 0.81); font-size:25px; margin:10px;}
+nav a{text-decoration:none; padding:5px;}
+nav a:hover{background-color:green;}
