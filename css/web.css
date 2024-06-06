@@ -26,7 +26,7 @@ text-align-last: center; background-color: rgb(149, 149, 158); padding:25px;
     border-radius:20px;
 
 }
-.finish{background-color:lightgrey; margin-left:450px; margin-right:450px;}
+.finish{background-color:lightgrey; margin-left:450px; margin-right:450px; border-radius:25px;}
 .hello{color:darkred; text-align:center;}
 .tenth{color:#8080FF; text-align:center;}
 .ten{color:black; text-align:center;}
