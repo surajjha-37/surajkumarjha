@@ -1,11 +1,12 @@
 h1{
- background-color:rgba(0,0,0,.11); 
- backdrop-filter:blur(10px);
+ background-color: #00072d; 
  color:white; padding:15px;  
-
+border-radius:10px;
 }
 p{
 font-size:50px; color:yellow; text-align:center;font-family: Arial, Helvetica, sans-serif;
+background-color:rgba(0,0,0,13);
+ backdrop-filter:blur(10px);
 
 
 
