@@ -87,11 +87,12 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;
   background-color:white;
+  max-width:600px;
   text-align: center;
 }
 .school {
-  margin-left: 450px;
-  margin-right: 450px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
 }
 .education {
@@ -105,19 +106,20 @@ footer {
 
 .paragraph {
   background-color: white;
-  margin-left: 450px;
-  margin-right: 450px;
+  max-width:600px;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 10px;
   margin-top: 20px;
   text-align: center;
 }
 
 .tech {
-  width: 600px;
+  max-width: 600px;
   background-color: white;
   text-align: center;
-  margin-left: 450px;
-  margin-right: 450px;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 5px;
   margin-top: 20px;
   text-align: left;
