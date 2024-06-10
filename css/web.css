@@ -92,6 +92,7 @@ footer {
 }
 .school {
   margin-left: auto;
+  margin-top:30px;
   margin-right: auto;
   text-align: left;
 }
@@ -105,12 +106,12 @@ footer {
 }
 
 .paragraph {
-  background-color: white;
+  background-color: lighgrey;
   max-width:600px;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 10px;
-  margin-top: 20px;
+  margin-top: 30px;
   text-align: center;
 }
 
@@ -121,7 +122,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 5px;
-  margin-top: 20px;
+  margin-top: 30px;
   text-align: left;
 }
 .technologies {
