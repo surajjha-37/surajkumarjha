@@ -145,6 +145,10 @@ h3 {
 .watch {
   color: #00072d;
 }
-a{text-decoration: none;
-  color:white;}
+a{
+  text-decoration: none;
+  color:lighgrey;
+ padding-left:15px;
+  font-size:25px;
+ }
   
