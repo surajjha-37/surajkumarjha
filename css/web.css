@@ -35,7 +35,7 @@ h3 {
   text-align: center;
 }
 body {
-  background-color: #dae2fe;
+  background-color: white;
 }
 .s1 {
   border-radius: 25px;
@@ -86,7 +86,7 @@ footer {
 .school {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color:white;
+  background-color:#dae2fe;
   max-width:600px;
   text-align: center;
 }
@@ -106,7 +106,7 @@ footer {
 }
 
 .paragraph {
-  background-color: white;
+  background-color: #dae2fe;
   max-width:600px;
   margin-left: auto;
   margin-right: auto;
@@ -117,7 +117,7 @@ footer {
 
 .tech {
   max-width: 600px;
-  background-color: white;
+  background-color: #dae2fe;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
