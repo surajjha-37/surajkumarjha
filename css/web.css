@@ -26,10 +26,11 @@ span {
   color: yellow;
 }
 h3 {
-  color: black;
+  color: white;
+  text-shadow:2px 2px;
 }
 .color {
-  color: red;
+  color: yellow;
 }
 .align {
   text-align: center;
@@ -46,7 +47,8 @@ p {
 }
 .h4 {
   text-align: center;
-  color: darkblue;
+  color: white;
+text-shadow:2px 2px;
 }
 h4 {
   text-align: center;
