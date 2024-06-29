@@ -1,0 +1,16 @@
+.suraj{background-color:white; 
+    max-width:450px;
+    margin:auto;
+    text-align:center;
+    padding-bottom:70px;
+    padding-top:30px;
+    margin-top:200px;
+    box-shadow:10px 10px 5px black;;
+    
+}
+
+body{background-color: aqua;}
+button{background-color:green; color:white; width:257px; height:25px;}
+#num1{width:250px; border-style: solid; height:20px;}
+#num2{width:250px; border-style: solid; height:20px;}
+h2{font-family: roboto, sans-serif;}
