@@ -1,0 +1,31 @@
+.suraj{background-color:rgba(0,0,0,.1); 
+    backdrop-filter: blur(10px);
+    max-width:450px;
+    margin:auto;
+    text-align:center;
+    padding-bottom:70px;
+    padding-top:30px;
+    margin-top:200px;
+    box-shadow:0px 0px 15px 5px  rgb(18, 32, 32);
+    
+}
+
+body{background-size:cover;
+    background-repeat:no-repeat;
+height:100%;
+}
+button{background-color:blue; color:white; width:257px; height:27px;box-shadow:3px 3px 5px black;}
+#num1{width:250px; border-style: solid; height:20px; box-shadow:3px 3px 5px black;}
+#num2{width:250px; border-style: solid; height:20px;box-shadow:3px 3px 5px black;}
+#num3{width:250px; border-style: solid; height:20px;box-shadow:3px 3px 5px black;}
+h2{font-family: roboto, sans-serif;color:black; background-color:chartreuse; padding:5px; width:250px; margin:auto;}
+
+#demo{background-color:purple;
+    color:white;
+max-width:250px;
+margin:auto;
+margin-bottom:15px;
+
+
+}
+button:hover{background-color: darkred;}
